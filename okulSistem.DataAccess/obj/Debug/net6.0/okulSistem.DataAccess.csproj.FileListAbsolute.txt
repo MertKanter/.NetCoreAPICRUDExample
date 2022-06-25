@@ -1,0 +1,17 @@
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.DataAccess\bin\Debug\net6.0\okulSistem.DataAccess.deps.json
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.DataAccess\bin\Debug\net6.0\okulSistem.DataAccess.runtimeconfig.json
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.DataAccess\bin\Debug\net6.0\okulSistem.DataAccess.dll
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.DataAccess\bin\Debug\net6.0\okulSistem.DataAccess.pdb
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.DataAccess\bin\Debug\net6.0\okulSistem.Entities.dll
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.DataAccess\bin\Debug\net6.0\okulSistem.Entities.pdb
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.DataAccess\obj\Debug\net6.0\okulSistem.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.DataAccess\obj\Debug\net6.0\okulSistem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.DataAccess\obj\Debug\net6.0\okulSistem.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.DataAccess\obj\Debug\net6.0\okulSistem.DataAccess.AssemblyInfo.cs
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.DataAccess\obj\Debug\net6.0\okulSistem.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.DataAccess\obj\Debug\net6.0\okulSistem.DataAccess.csproj.CopyComplete
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.DataAccess\obj\Debug\net6.0\okulSistem.DataAccess.dll
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.DataAccess\obj\Debug\net6.0\refint\okulSistem.DataAccess.dll
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.DataAccess\obj\Debug\net6.0\okulSistem.DataAccess.pdb
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.DataAccess\obj\Debug\net6.0\okulSistem.DataAccess.genruntimeconfig.cache
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.DataAccess\obj\Debug\net6.0\ref\okulSistem.DataAccess.dll

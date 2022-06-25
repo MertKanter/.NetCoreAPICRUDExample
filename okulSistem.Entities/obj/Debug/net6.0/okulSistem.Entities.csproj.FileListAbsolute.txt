@@ -1,0 +1,12 @@
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Entities\bin\Debug\net6.0\okulSistem.Entities.deps.json
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Entities\bin\Debug\net6.0\okulSistem.Entities.dll
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Entities\bin\Debug\net6.0\okulSistem.Entities.pdb
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Entities\obj\Debug\net6.0\okulSistem.Entities.csproj.AssemblyReference.cache
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Entities\obj\Debug\net6.0\okulSistem.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Entities\obj\Debug\net6.0\okulSistem.Entities.AssemblyInfoInputs.cache
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Entities\obj\Debug\net6.0\okulSistem.Entities.AssemblyInfo.cs
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Entities\obj\Debug\net6.0\okulSistem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Entities\obj\Debug\net6.0\okulSistem.Entities.dll
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Entities\obj\Debug\net6.0\refint\okulSistem.Entities.dll
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Entities\obj\Debug\net6.0\okulSistem.Entities.pdb
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Entities\obj\Debug\net6.0\ref\okulSistem.Entities.dll

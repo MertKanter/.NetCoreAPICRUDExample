@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "okulSistem.Entities", "okulSistem.Entities\okulSistem.Entities.csproj", "{E8C3BA21-3B7F-4AAC-B229-C2B3140CD50E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "okulSistem.DataAccess", "okulSistem.DataAccess\okulSistem.DataAccess.csproj", "{5151C773-B68A-49FC-A6EC-D782843329AC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "okulSistem.Business", "okulSistem.Business\okulSistem.Business.csproj", "{96E606E6-241D-4531-ADD6-71955B7F4ABA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "okulSistem.API", "okulSistem.API\okulSistem.API.csproj", "{E7DE3B8B-F13B-4B10-B1E2-7EFC8F0E824D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "okulSistem.WebMvc", "okulSistem.WebMvc\okulSistem.WebMvc.csproj", "{45A1546E-3918-4D0B-938B-D31802E40262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8C3BA21-3B7F-4AAC-B229-C2B3140CD50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C3BA21-3B7F-4AAC-B229-C2B3140CD50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C3BA21-3B7F-4AAC-B229-C2B3140CD50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C3BA21-3B7F-4AAC-B229-C2B3140CD50E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5151C773-B68A-49FC-A6EC-D782843329AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5151C773-B68A-49FC-A6EC-D782843329AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5151C773-B68A-49FC-A6EC-D782843329AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5151C773-B68A-49FC-A6EC-D782843329AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96E606E6-241D-4531-ADD6-71955B7F4ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E606E6-241D-4531-ADD6-71955B7F4ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E606E6-241D-4531-ADD6-71955B7F4ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E606E6-241D-4531-ADD6-71955B7F4ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7DE3B8B-F13B-4B10-B1E2-7EFC8F0E824D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DE3B8B-F13B-4B10-B1E2-7EFC8F0E824D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DE3B8B-F13B-4B10-B1E2-7EFC8F0E824D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DE3B8B-F13B-4B10-B1E2-7EFC8F0E824D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A1546E-3918-4D0B-938B-D31802E40262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A1546E-3918-4D0B-938B-D31802E40262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A1546E-3918-4D0B-938B-D31802E40262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A1546E-3918-4D0B-938B-D31802E40262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6DA7600-8656-4C74-8207-F7B5BFE351C8}
+	EndGlobalSection
+EndGlobal

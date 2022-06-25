@@ -1,0 +1,17 @@
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Business\bin\Debug\net6.0\okulSistem.Business.deps.json
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Business\bin\Debug\net6.0\okulSistem.Business.dll
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Business\bin\Debug\net6.0\okulSistem.Business.pdb
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Business\bin\Debug\net6.0\okulSistem.DataAccess.dll
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Business\bin\Debug\net6.0\okulSistem.Entities.dll
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Business\bin\Debug\net6.0\okulSistem.DataAccess.pdb
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Business\bin\Debug\net6.0\okulSistem.Entities.pdb
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Business\obj\Debug\net6.0\okulSistem.Business.csproj.AssemblyReference.cache
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Business\obj\Debug\net6.0\okulSistem.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Business\obj\Debug\net6.0\okulSistem.Business.AssemblyInfoInputs.cache
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Business\obj\Debug\net6.0\okulSistem.Business.AssemblyInfo.cs
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Business\obj\Debug\net6.0\okulSistem.Business.csproj.CoreCompileInputs.cache
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Business\obj\Debug\net6.0\okulSistem.Business.csproj.CopyComplete
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Business\obj\Debug\net6.0\okulSistem.Business.dll
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Business\obj\Debug\net6.0\refint\okulSistem.Business.dll
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Business\obj\Debug\net6.0\okulSistem.Business.pdb
+C:\Users\Mert Kanter\Desktop\okulSistem\okulSistem\okulSistem.Business\obj\Debug\net6.0\ref\okulSistem.Business.dll
